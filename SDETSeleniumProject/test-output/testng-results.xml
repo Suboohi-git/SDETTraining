@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22028" started-at="2020-07-09T04:40:59Z" finished-at="2020-07-09T04:41:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22028" started-at="2020-07-09T04:40:59Z" finished-at="2020-07-09T04:41:21Z">
+      <class name="session10.Activity9_CompleteSimpleLesson">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:session10.Activity9_CompleteSimpleLesson@396a51ab]" name="BrowserLaunch" is-config="true" duration-ms="11528" started-at="2020-07-09T10:10:59Z" finished-at="2020-07-09T10:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="CompleteCourse()[pri:0, instance:session10.Activity9_CompleteSimpleLesson@396a51ab]" name="CompleteCourse" duration-ms="9060" started-at="2020-07-09T10:11:11Z" finished-at="2020-07-09T10:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteCourse -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:session10.Activity9_CompleteSimpleLesson@396a51ab]" name="CloseBrowser" is-config="true" duration-ms="1409" started-at="2020-07-09T10:11:20Z" finished-at="2020-07-09T10:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- session10.Activity9_CompleteSimpleLesson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
